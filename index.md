@@ -22,9 +22,9 @@ page_sections:
     button_text: Import
 - template: full-width-media-element
   block: media-1
-  slug: ''
+  slug: yo
   image: "/uploads/2018/06/21/theme.png"
-  caption: ''
+  caption: test
 - template: hero-banner-w-image
   block: hero-2
   slug: features
