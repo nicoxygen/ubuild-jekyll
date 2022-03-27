@@ -10,6 +10,8 @@ url: ''
 defaults:
 - scope: ''
   values: ''
+- scope: ''
+  values: ''
 plugins:
 - jekyll-sitemap
 - jekyll-feed
