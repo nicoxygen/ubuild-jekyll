@@ -7,12 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: https://leaneroz.fr
-    link_text: leaneroz
   - link: "/"
     link_text: Accueil
   - link: "#swap"
     link_text: Swap
+  - link: https://leaneroz.fr
+    link_text: leaneroz
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
