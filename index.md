@@ -11,25 +11,6 @@ page_sections:
     link_text: "/"
   - link: https://Leaneroz.fr
     link_text: leaneroz
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link: "/"
-    link_text: Accueil
-  - link: "#swap"
-    link_text: Swap
-  - link: https://leaneroz.fr
-    link_text: leaneroz
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
-  cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
