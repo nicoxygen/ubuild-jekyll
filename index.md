@@ -7,10 +7,15 @@ page_sections:
   block: header-1
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: test
+    link_text: test-use
+    date: '2022-03-16 00:00:00 +0000'
   - link: "/"
     link_text: Accueil
+    date: ''
   - link: https://Leaneroz.fr
     link_text: leaneroz
+    date: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
