@@ -1,6 +1,7 @@
 ---
 label: landing
 hide_body: false
+display_field: block
 fields:
 - name: text
   type: text
