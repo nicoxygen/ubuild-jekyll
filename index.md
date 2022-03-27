@@ -22,9 +22,9 @@ page_sections:
     button_text: Import
 - template: full-width-media-element
   block: media-1
-  slug: yo
   image: "/uploads/2018/06/21/theme.png"
-  caption: test
+  caption: All Available Blocks
+  slug: blocks
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -69,11 +69,6 @@ page_sections:
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
