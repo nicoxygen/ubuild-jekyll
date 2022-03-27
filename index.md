@@ -20,10 +20,11 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
-- template: signup-bar
-  block: cta-bar
-  content: ''
-  email_recipient: ''
+- template: full-width-media-element
+  block: media-1
+  slug: ''
+  image: ''
+  caption: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
