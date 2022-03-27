@@ -8,3 +8,23 @@ fields:
     required: false
   label: text
   description: dépose ton text ici
+- name: block
+  type: blocks
+  label: block
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: block en place
+- name: list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: list
+- name: template
+  type: include
+  config: {}
+  template: hero-banner-w-image
+  label: template
