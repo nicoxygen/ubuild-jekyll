@@ -23,7 +23,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: ''
+  image: "/uploads/2018/06/21/theme.png"
   caption: ''
 - template: hero-banner-w-image
   block: hero-2
