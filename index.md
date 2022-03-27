@@ -7,8 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: Accueil
-    link_text: "/"
+  - link: "/"
+    link_text: Accueil
   - link: https://Leaneroz.fr
     link_text: leaneroz
 - template: full-width-media-element
