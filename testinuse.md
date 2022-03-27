@@ -10,5 +10,6 @@ cta:
   enabled: false
   url: ''
   button_text: ''
+published: false
 
 ---
