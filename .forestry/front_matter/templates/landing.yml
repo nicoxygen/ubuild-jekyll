@@ -1,4 +1,10 @@
 ---
 label: landing
 hide_body: false
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
+  description: dépose ton text ici
