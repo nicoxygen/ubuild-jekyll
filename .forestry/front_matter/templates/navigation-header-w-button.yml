@@ -20,6 +20,18 @@ fields:
   - type: text
     name: link_text
     label: Link text
+  - name: select
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Select
   config:
     labelField: link_text
 - type: field_group
