@@ -21,5 +21,14 @@ fields:
   - type: text
     name: link_text
     label: Link text
+  - name: date
+    type: datetime
+    label: date
+    description: ''
+    config:
+      required: false
+      date_format: DD/MM/YYYY
+      time_format: h:mm
+      display_utc: true
   config:
     labelField: link_text
